@@ -3,6 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcellafccosta)](https://www.linkedin.com/in/marcellafccosta/)
 [![Gmail Badge](https://img.shields.io/badge/-marcellafccosta@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcellafccosta@gmail.com)](mailto:marcellafccosta@gmail.com)
 
+<img align="right" alt="avatar image" src="avatarr.png"  width="280px"/>
+
 ## My name is Marcella Chaves
 (JavaScript | HTML | CSS | C/C++ | Java) 👩🏼‍💻
 
