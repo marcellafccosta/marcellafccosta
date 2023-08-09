@@ -5,7 +5,7 @@
 
 <img align="right" alt="avatar image" src="avatarr.png"  width="280px"/>
 
-## My name is Marcella Chaves
+## I'm Marcella Chaves
 (JavaScript | HTML | CSS | C/C++ | Java) 👩🏼‍💻
 
 >- 🎓 software engineering student
