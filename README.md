@@ -11,5 +11,5 @@
 
 >- 🎓 software engineering student
 >- 📍 brazil
->- 💡 exploring the world of software development with curiosity and dedication
+>- 💡 exploring the realms of code and creativity
 
