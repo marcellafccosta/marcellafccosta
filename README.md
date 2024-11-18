@@ -7,9 +7,9 @@
 
 
 ## I'm Marcella Chaves
-(JavaScript | HTML | CSS | C/C++ | Java) 👩🏼‍💻
+(JavaScript | NodeJS | ReactJS | SpringBoot ) 👩🏼‍💻
 
 >- 🎓 software engineering student
 >- 📍 brazil
->- 💡 exploring the realms of code and creativity
+
 
