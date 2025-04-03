@@ -42,7 +42,10 @@ Olá, sou a <code>Marcella</code>, tenho 20 anos e moro em Belo Horizonte. Sou u
 <div>
 
 Linguagens e ferramentas:
-
+<code><a href="https://developer.apple.com/xcode/swiftui/" target="_blank"><img width="32" height="32" src="imgs/swiftui.png"/></a></code>
+&nbsp; 
+<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="imgs/nodejs.png"/></a></code>
+&nbsp; 
 <code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="imgs/c.png"/></a></code>
 &nbsp; 
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="imgs/java.png"/></a></code>
@@ -58,8 +61,6 @@ Linguagens e ferramentas:
 <code><a href="https://www.mysql.com/" target="_blank"><img width="32" height="32" src="imgs/mysql.png"/></a></code>
 &nbsp; 
 <code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="imgs/postgresql.png"/></a></code>
-&nbsp; 
-<code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="imgs/nodejs.png"/></a></code>
 &nbsp;
 <code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="imgs/git.png"/></a></code>
 &nbsp; 
