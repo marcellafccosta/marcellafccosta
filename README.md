@@ -50,6 +50,8 @@ Linguagens e ferramentas:
 &nbsp; 
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="imgs/java.png"/></a></code>
 &nbsp; 
+<code><a href="https://flutter.dev" target="_blank"><img width="32" height="32" src="imgs/flutter.png"/></a></code>
+&nbsp; 
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="imgs/html.svg"/></a></code>
 &nbsp; 
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img width="32" height="32" src="imgs/css.svg"/></a></code>
