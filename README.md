@@ -42,6 +42,10 @@ Linguagens e ferramentas:
 &nbsp; 
 <code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="imgs/nodejs.png"/></a></code>
 &nbsp; 
+<code><a href="https://www.python.org" target="_blank"><img width="32" height="32" src="imgs/python.png"/></a></code>
+&nbsp; 
+<code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="imgs/git.png"/></a></code>
+&nbsp; 
 <code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="imgs/c.png"/></a></code>
 &nbsp; 
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="imgs/java.png"/></a></code>
@@ -60,10 +64,7 @@ Linguagens e ferramentas:
 &nbsp; 
 <code><a href="https://www.postgresql.org/" target="_blank"><img width="32" height="32" src="imgs/postgresql.png"/></a></code>
 &nbsp;
-<code><a href="https://git-scm.com/" target="_blank"><img width="32" height="32" src="imgs/git.png"/></a></code>
-&nbsp; 
-<code><a href="https://code.visualstudio.com" target="_blank"><img width="32" height="32" src="imgs/vs.png"/></a></code>
-&nbsp;
+
 </div>
 
 -----
