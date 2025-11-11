@@ -14,8 +14,7 @@
 </td>
 <td><a href="https://www.linkedin.com/in/marcellafccosta/" target="_blank"><img src="imgs/linkedin.png" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://instagram.com/marcellafccosta" target="_blank"><img src="imgs/insta.png" width="50px" height="50px"/></a>
-</td>
+
 
 
 </tr>
@@ -30,10 +29,7 @@
 
 Sobre mim:
 <div align="justify">
-Olá, sou a <code>Marcella</code>, tenho 20 anos e moro em Belo Horizonte. Sou uma estudante de engenharia de software, atualmente no quinto período na <a href="https://www.pucminas.br/destaques/Paginas/default.aspx?utm_source=google&utm_medium=cpa&utm_campaign=aon-institucional&utm_content=PC00002&gad_source=1&gclid=CjwKCAjwk8e1BhALEiwAc8MHiJ66s56joN9L6Kuvbl90gkXUs0P3SBC0DVm4dBxJ1eJjZ6Ne838X5BoClk4QAvD_BwE" target="_blank">PUC Minas</a>, com muita vontade de aprender e crescer na área. Minha trajetória na faculdade já me proporcionou uma base em programação, principalmente em Java SpringBoot, JavaScript, NodeJS, SQL e estou estudando outras linguagens, como Python. Também aprendi metodologias ágeis, padrões de arquitetura como MVC e DAO, noções de complexidade de código, sistemas operacionais e o uso do Git. Participei, e pretendo continuar participando, de atividades extracurriculares, como projetos de extensão - PUC mais idade, Explorando Tecnologias Emergentes: Oficina de Mini Projetos - e cursos online. Faço parte do laboratório <a href="http://imscience.icei.pucminas.br/" target="_blank">IMScience</a> como bolsista na pesquisa <code>Smart Annotation and Interactive Segmentation Systems for Medical Images</code>.
-  
-  
-
+Olá, sou a <code>Marcella</code>, tenho 21 anos e moro em Belo Horizonte. Sou uma estudante de engenharia de software, atualmente no sexto período na <a href="https://www.pucminas.br">PUC Minas</a>. Minha trajetória na faculdade já me proporcionou uma base em programação, principalmente em <b>C, Java, JavaScript e Python</b>. Também tenho conhecimentos em desenvolvimento mobile com <b>Flutter e SwiftUI</b>, além de desenvolvimento backend utilizando <b>Node.js</b>. Também aprendi metodologias ágeis, padrões de arquitetura como MVC e DAO, noções de complexidade de código, sistemas operacionais e o uso do Git. Participei, e pretendo continuar participando, de atividades extracurriculares, como projetos de extensão e cursos online. Fiz parte do laboratório <a href="http://imscience.icei.pucminas.br/">IMScience</a> como bolsista na pesquisa <code>Smart Annotation and Interactive Segmentation Systems for Medical Images</code>, e atualmente trabalho como estagiaria Desenvolvedora de Software iOS na <a href="https://www.dtidigital.com.br">dti digital</a>.
 </div>
 
 
