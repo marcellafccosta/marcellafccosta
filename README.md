@@ -67,11 +67,5 @@ Linguagens e ferramentas:
 
 </div>
 
------
-GitHub Stats:
-
-
-![marcellafccosta's Stats](https://github-readme-stats.vercel.app/api?username=marcellafccosta&theme=react&show_icons=true&hide_border=true&count_private=true)
-![marcellafccosta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcellafccosta&theme=react&show_icons=true&hide_border=true&layout=compact)
 
 
